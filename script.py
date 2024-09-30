@@ -1,1 +1,1 @@
-print("hello world hacktiv")
+print("hello world all")
